@@ -4,5 +4,5 @@
 - username: john || password: doe
 ===
 ### Command
-- go mod init <main> ## main is whatever
+- go mod init <<main>> ## main is whatever
 - go run .
